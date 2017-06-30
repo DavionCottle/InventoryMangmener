@@ -1,0 +1,23 @@
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.exe.config
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Interop.GrooveAPIPrivate.dll
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Interop.OWSSUPP.dll
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.ResolveComReference.cache
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.exe
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.pdb
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csprojResolveAssemblyReference.cache
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory_Manager.Properties.Resources.resources
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.GenerateResource.Cache
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.exe
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.pdb
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory_Manager.Form1.resources
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\ClaimsAuth.dll
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\bin\Debug\ClaimsAuth.pdb
+C:\Users\Davion Cottle\Documents\Visual Studio 2015\Projects\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.Inventory Manager.exe.config
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\bin\Debug\Inventory Manager.exe.config
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\obj\Debug\Interop.GrooveAPIPrivate.dll
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\obj\Debug\Interop.OWSSUPP.dll
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\obj\Debug\Inventory Manager.csproj.ResolveComReference.cache
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\obj\Debug\Inventory Manager.exe
+C:\Users\Davion Cottle\Source\Repos\InventoryMangmener\Inventory Manager\obj\Debug\Inventory Manager.pdb
